@@ -50,6 +50,6 @@ To authenticate as an end user and access user data in your app, you need to cre
 
 # Install the Google client library
 * Install the Google client library for Python:
-'''
+```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-'''
+```
